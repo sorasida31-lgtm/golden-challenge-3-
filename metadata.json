@@ -1,0 +1,7 @@
+{
+  "name": "The Golden Challenge (9-23-2025-revised)",
+  "description": "An interactive quiz game for elementary school students to practice correct English answers to basic questions. The game uses AI to generate questions and helps students learn the proper response forms like 'Yes, I do' for 'Do you...?' questions.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
